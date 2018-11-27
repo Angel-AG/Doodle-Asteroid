@@ -9,3 +9,7 @@ A space-shooter game with a doodle style.
 * David García
 * Paulina Méndez
 * Demetrio Strimpópulos
+
+**Special Thanks To:**
+
+**Artist:** Andrea Salgado
